@@ -151,12 +151,10 @@ button {
   padding: 5px;
 }
 
- #contact h6 {
+h6 {
   font-sizing: 20px;
   font-weight: normal;
   display: block;
-  padding: 0;
-  margin: 0 auto;
   padding-bottom: 20px;
   text-align: center;
 }
