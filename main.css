@@ -151,7 +151,7 @@ button {
   padding: 5px;
 }
 
- p.contact {
+ #contact p {
   display: block;
   padding: 0;
   margin: 0 auto;
