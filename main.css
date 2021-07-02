@@ -152,6 +152,7 @@ button {
 }
 
 .contact p{
+  display: block;
   padding: 0;
   margin: 0;
   padding-bottom: 20px;
